@@ -1,6 +1,6 @@
 
 # 💫 Hi, I'm Syahirah Zainuddin:
-👩🏻‍💻Aspire Business Analyst sharing my journey and learnings in tech.<br>🙂‍↔️Currently, I am in a program called MyMahir by TalentCorp to leverage my skills and pivot my career into business sector.<br>📝Currently studying for CompTIA Data+ cert.<br>
+👩🏻‍💻Sharing my journey and learnings in tech.<br>🙂‍↔️Currently, I am in a program called MyMahir by TalentCorp to leverage my skills and pivot my career into business sector.<br>📝Currently studying for CompTIA Data+ cert.<br>
 
 
 ## 🌐 Socials:
